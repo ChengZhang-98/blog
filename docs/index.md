@@ -1,17 +1,31 @@
-# Welcome to MkDocs
+---
+hide:
+   - footer
+   - navigation
+   - toc
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# About Me
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<figure>
+    <img src="./assets/images/selfie.jpg" class="center" width="400">
+</figure>
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+<font size="+2" markdown>
+<center>
+Cheng Zhang <br> [:fontawesome-solid-envelope:](chengzhang98@outlook.com)     [:fontawesome-brands-linkedin:](www.linkedin.com/in/chengzhang98)     [:fontawesome-brands-github:](https://github.com/ChengZhang-98)
+</center>
+</font>
+
+<p markdown>
+I am Cheng Zhang, a first-year PhD student at the [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), Imperial College London, supervised by [Dr Yiren (Aaron) Zhao](https://aaronzhao.me/) and [Prof George A. Constantinides](https://cas.ee.ic.ac.uk/people/gac1/). My research interests mainly focus on on-device machine learning and AI acceleration. 
+</p>
+
+## Education
+
+- PhD in Electrical and Electronic Engineering, Imperial College London, Jan 2023 - Current
+- MSc in Electronics, The University of Edinburgh, Sep 2021 - Aug 2022
+- BEng in Automation, Beihang University, Sep 2017 - Jun 2021
