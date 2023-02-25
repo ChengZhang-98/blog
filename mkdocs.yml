@@ -65,7 +65,6 @@ plugins:
   - search:
      lang: en
   - tags
-  - glightbox
 
 extra_javascript:
   - javascripts/mathjax.js
