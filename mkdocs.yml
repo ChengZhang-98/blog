@@ -74,7 +74,7 @@ extra_javascript:
 extra:
   social:
     - icon: fontawesome/solid/envelope
-      link: https://chengzhang98@outlook.com
+      link: mailto:chengzhang98@outlook.com
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/chengzhang98
     - icon: fontawesome/brands/github

@@ -16,7 +16,7 @@ hide:
 
 <font size="+2" markdown>
 <center>
-Cheng Zhang <br> [:fontawesome-solid-envelope:](chengzhang98@outlook.com)     [:fontawesome-brands-linkedin:](www.linkedin.com/in/chengzhang98)     [:fontawesome-brands-github:](https://github.com/ChengZhang-98)
+Cheng Zhang <br> [:fontawesome-solid-envelope:](mailto: chengzhang98@outlook.com)     [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/chengzhang98)     [:fontawesome-brands-github:](https://github.com/ChengZhang-98)
 </center>
 </font>
 
