@@ -26,6 +26,6 @@ I am Cheng Zhang, a first-year PhD student at the [Department of Electrical and 
 
 ## Education
 
-- PhD in Electrical and Electronic Engineering, Imperial College London, Jan 2023 - Current
+- PhD in Electrical and Electronic Engineering, Imperial College London, Jan 2023 - 
 - MSc in Electronics, The University of Edinburgh, Sep 2021 - Aug 2022
 - BEng in Automation, Beihang University, Sep 2017 - Jun 2021
