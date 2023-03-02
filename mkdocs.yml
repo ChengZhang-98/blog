@@ -1,7 +1,7 @@
 site_name: Cheng's Site
 theme:
   name: material
-  palette: 
+  palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
@@ -9,7 +9,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-    
+
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
@@ -20,7 +20,7 @@ theme:
   font:
     text: Roboto Slab
     code: Roboto Mono
-  logo: assets/orange_logo.png 
+  logo: assets/orange_logo.png
   favicon: assets/orange_logo.png
   features:
     - navigation.instant
@@ -79,4 +79,6 @@ extra:
       link: https://www.linkedin.com/in/chengzhang98
     - icon: fontawesome/brands/github
       link: https://github.com/ChengZhang-98
+    - icon: fontawesome/solid/note-sticky
+      link: https://chengzhang-98.github.io/notes/
   generator: true
