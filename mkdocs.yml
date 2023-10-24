@@ -27,7 +27,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
-#    - navigation.sections
+    #    - navigation.sections
     - navigation.indexes
     - navigation.top
     - search.suggest
@@ -63,7 +63,7 @@ markdown_extensions:
 
 plugins:
   - search:
-     lang: en
+      lang: en
   - tags
 
 extra_javascript:
@@ -79,6 +79,4 @@ extra:
       link: https://www.linkedin.com/in/chengzhang98
     - icon: fontawesome/brands/github
       link: https://github.com/ChengZhang-98
-    - icon: fontawesome/solid/note-sticky
-      link: https://chengzhang-98.github.io/notes/
   generator: true
