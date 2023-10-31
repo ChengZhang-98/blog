@@ -19,7 +19,7 @@ Cheng Zhang <br> [:fontawesome-solid-envelope:](mailto: chengzhang98@outlook.com
 </font>
 
 <p markdown>
-I am Cheng Zhang, a first-year PhD student in [Circuits and System Group](https://www.imperial.ac.uk/electrical-engineering/research/circuits-and-systems/), the Department of Electrical and Electronic Engineering, Imperial College London, supervised by [Dr Yiren (Aaron) Zhao](https://aaronzhao.me/) and [Prof George A. Constantinides](https://cas.ee.ic.ac.uk/people/gac1/). My research interests mainly focus on Efficient machine learning and AI acceleration.
+I am Cheng Zhang, a first-year PhD student in [Circuits and System Group](https://www.imperial.ac.uk/electrical-engineering/research/circuits-and-systems/), the Department of Electrical and Electronic Engineering, Imperial College London, supervised by [Dr Yiren (Aaron) Zhao](https://aaronzhao.me/) and [Prof George A. Constantinides](https://cas.ee.ic.ac.uk/people/gac1/). My research interests mainly include efficient machine learning and AI acceleration.
 </p>
 
 ## Education
@@ -30,4 +30,6 @@ I am Cheng Zhang, a first-year PhD student in [Circuits and System Group](https:
 
 ## Publications
 
-- [\[EMNLP2023\]](https://arxiv.org/pdf/2310.05079.pdf) **Cheng Zhang**, Jianyi Cheng, Ilia Shumailov, George Anthony Constantinides, Yiren Zhao. Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inference?
+- [<u>\[NeurIPS2023 Workshop\]</u>](http://mlforsystems.org/) **Cheng Zhang**, Jianyi Cheng, Zhewen Yu, Yiren Zhao. MASE: An Efficient Representation for Software-Defined ML Hardware System Exploration. *Workshop on ML for Systems at NeurIPS 2023*.
+
+- [<u>\[EMNLP2023\]</u>](https://arxiv.org/pdf/2310.05079.pdf) **Cheng Zhang**, Jianyi Cheng, Ilia Shumailov, George Anthony Constantinides, Yiren Zhao. Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inference? *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*.
