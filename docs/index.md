@@ -30,6 +30,8 @@ I am Cheng Zhang, a first-year PhD student in [Circuits and System Group](https:
 
 ## Publications
 
+- [<u>\[ICML2024\]</u>](https://arxiv.org/abs/2402.02446) **Cheng Zhang**, Jianyi Cheng, George A. Constantinides, Yiren Zhao. LQER: Low-Rank Quantization Error Reconstruction for LLMs. *The Forty-first International Conference on Machine Learning*.
+
 - [<u>\[NeurIPS2023 Workshop\]</u>](http://mlforsystems.org/) **Cheng Zhang**, Jianyi Cheng, Zhewen Yu, Yiren Zhao. MASE: An Efficient Representation for Software-Defined ML Hardware System Exploration. *Workshop on ML for Systems at NeurIPS 2023*.
 
 - [<u>\[EMNLP2023\]</u>](https://aclanthology.org/2023.emnlp-main.617.pdf) **Cheng Zhang**, Jianyi Cheng, Ilia Shumailov, George Anthony Constantinides, Yiren Zhao. Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inference? *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*.

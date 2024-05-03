@@ -6,6 +6,8 @@ hide:
 
 # Updates
 
+- 05/03/2024: 🥳 [Paper](https://arxiv.org/abs/2402.02446) accepted to [ICML2024](https://icml.cc/Conferences/2024).
+
 - 10/12/2023 - 16/12/2023: Presented our work at [NeurIPS2023](https://neurips.cc/Conferences/2023/Dates), New Orleans Ernest N. Morial Convention Center.
 
     ??? tip "NeurIPS2023 @ New Orleans Ernest N. Morial Convention Center"
