@@ -30,7 +30,13 @@ I am Cheng Zhang, a first-year PhD student in [Circuits and System Group](https:
 
 ## Publications
 
+- [<u>\[ICML2024 Workshop\]</u>](https://arxiv.org/abs/2406.14963). Yuang Chen, **Cheng Zhang**, Xitong Gao, Robert D. Mullins, George A. Constantinides, Yiren Zhao. Optimised Grouped-Query Attention Mechanism for Transformers.
+
+- [<u>\[ICML2024 Workshop\]</u>](https://arxiv.org/abs/2406.14956) Zixi Zhang, **Cheng Zhang**, Xitong Gao, Robert D. Mullins, George A. Constantinides, Yiren Zhao. Unlocking the Global Synergies in Low-Rank Adapters.
+
 - [<u>\[ICML2024\]</u>](https://arxiv.org/abs/2402.02446) **Cheng Zhang**, Jianyi Cheng, George A. Constantinides, Yiren Zhao. LQER: Low-Rank Quantization Error Reconstruction for LLMs. *The Forty-first International Conference on Machine Learning*.
+
+- [<u>[FPL2024]</u>](https://arxiv.org/abs/2406.03088). Zhewen Yu, Sudarshan Sreeram, Krish Agrawal, Junyi Wu, Alexander Montgomerie-Corcoran, **Cheng Zhang**, Jianyi Cheng, Christos-Savvas Bouganis, Yiren Zhao. HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerator
 
 - [<u>\[NeurIPS2023 Workshop\]</u>](http://mlforsystems.org/) **Cheng Zhang**, Jianyi Cheng, Zhewen Yu, Yiren Zhao. MASE: An Efficient Representation for Software-Defined ML Hardware System Exploration. *Workshop on ML for Systems at NeurIPS 2023*.
 
