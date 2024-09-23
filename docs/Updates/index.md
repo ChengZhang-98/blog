@@ -6,6 +6,13 @@ hide:
 
 # Updates
 
+- 24/07/2024: Presented our work LQER and two workshop papers at ICML'24, Vienna, Austria.
+
+    ??? tip "ICML2024 @ Messe Wien"
+        | Vienna Airport | Messe Wien | National Library |
+        |:-------------------------:|:-------------------------:|:-------------------------:|
+        |<figure markdown>![Image title](../assets/photos/icml2024/icml24-1.jpg){ width="400" }<figcaption></figcaption></figure>| <figure markdown>![Image title](../assets/photos/icml2024/icml24-2.jpg){ width="400" }<figcaption></figcaption></figure> | <figure markdown>![Image title](../assets/photos/icml2024/icml24-3.jpg){ width="300" }<figcaption></figcaption></figure> |
+
 - 24/06/2024: 🥳 Two workshop papers ([AsymGQA](https://arxiv.org/abs/2406.14963), [HeteroLoRA](https://arxiv.org/abs/2406.14963)) accepted at [ICML2024 ES-FoMo-II Workshop](https://es-fomo.com/):
 
 - 05/03/2024: 🥳 Paper ([LQER](https://arxiv.org/abs/2402.02446)) accepted at [ICML2024](https://icml.cc/Conferences/2024).
