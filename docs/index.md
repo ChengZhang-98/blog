@@ -19,7 +19,11 @@ Cheng Zhang <br> [:fontawesome-solid-envelope:](mailto: chengzhang98@outlook.com
 </font>
 
 <p markdown>
-I am Cheng Zhang, a first-year PhD student in [Circuits and System Group](https://www.imperial.ac.uk/electrical-engineering/research/circuits-and-systems/), the Department of Electrical and Electronic Engineering, Imperial College London, supervised by [Dr Yiren (Aaron) Zhao](https://aaronzhao.me/) and [Prof George A. Constantinides](https://cas.ee.ic.ac.uk/people/gac1/). My research interests mainly include efficient machine learning and AI acceleration.
+I am Cheng Zhang, a PhD student in [Circuits and System Group](https://www.imperial.ac.uk/electrical-engineering/research/circuits-and-systems/), the Department of Electrical and Electronic Engineering, Imperial College London, supervised by [Dr Yiren (Aaron) Zhao](https://aaron-zhao123.github.io/) and [Prof George A. Constantinides](https://www.linkedin.com/in/george-constantinides-5b12098).
+</p>
+
+<p markdown>
+My research is currently sponsored by the [Scaling Compute Program under ARIA](https://www.aria.org.uk/scaling-compute/), and previously by [SpatialML](https://spatialml.net/). My research interests mainly include efficient machine learning and AI acceleration.
 </p>
 
 ## Education
