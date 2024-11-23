@@ -17,6 +17,14 @@ hide:
 
 - 05/03/2024: 🥳 Paper ([LQER](https://arxiv.org/abs/2402.02446)) accepted at [ICML2024](https://icml.cc/Conferences/2024).
 
+- 03/03/2024: Attended [FPGA'24](https://www.isfpga.org/) in Monterey, California, USA. The workshop on ML Acceleration hosted by George & Christos was fantastic!
+
+    ??? tip "FPGA2024 @ Monterey, California"
+        | Dinner hosted by George | Monterey Plaza Hotel & Spa | Sunny day :) |
+        |:-------------------------:|:-------------------------:|:-------------------------:|
+        |<figure markdown>![Image title](../assets/photos/fpga2024/fpga-1.jpg){ width="400" }<figcaption></figcaption></figure>| <figure markdown>![Image title](../assets/photos/fpga2024/fpga-2.jpg){ width="400" }<figcaption></figcaption></figure> | <figure markdown>![Image title](../assets/photos/fpga2024/fpga-3.jpg){ width="400" }<figcaption></figcaption></figure> |
+
+
 - 10/12/2023 - 16/12/2023: Presented our work on MASE at [NeurIPS2023](https://neurips.cc/Conferences/2023/Dates), New Orleans Ernest N. Morial Convention Center.
 
     ??? tip "NeurIPS2023 @ New Orleans Ernest N. Morial Convention Center"
