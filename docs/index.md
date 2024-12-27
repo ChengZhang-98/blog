@@ -23,7 +23,7 @@ I am Cheng Zhang, a PhD student in [Circuits and System Group](https://www.imper
 </p>
 
 <p markdown>
-My research is currently sponsored by the [Scaling Compute Program under ARIA](https://www.aria.org.uk/scaling-compute/), and previously by [SpatialML](https://spatialml.net/). My research interests mainly include efficient machine learning and AI acceleration. My CV can be found [here](./assets/pdfs/CV.pdf)
+My research is currently sponsored by the [Scaling Compute Program under ARIA](https://www.aria.org.uk/scaling-compute/), and previously by [SpatialML](https://spatialml.net/). My research interests mainly include efficient machine learning and AI acceleration. My CV can be found [here](./assets/pdfs/CV.pdf).
 </p>
 
 ## Education
