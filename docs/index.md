@@ -23,7 +23,7 @@ I am Cheng Zhang, a PhD student in [Circuits and System Group](https://www.imper
 </p>
 
 <p markdown>
-My research is currently sponsored by the [Scaling Compute Program under ARIA](https://www.aria.org.uk/scaling-compute/), and previously by [SpatialML](https://spatialml.net/). My research interests mainly include efficient machine learning and AI acceleration.
+My research is currently sponsored by the [Scaling Compute Program under ARIA](https://www.aria.org.uk/scaling-compute/), and previously by [SpatialML](https://spatialml.net/). My research interests mainly include efficient machine learning and AI acceleration. My CV can be found [here](./assets/pdfs/CV.pdf)
 </p>
 
 ## Education
@@ -33,6 +33,9 @@ My research is currently sponsored by the [Scaling Compute Program under ARIA](h
 - BEng in Automation, Beihang University, Sep 2017 - Jun 2021
 
 ## Publications
+
+- [<u>\[IEEE SaTML2025\]</u>](https://arxiv.org/abs/2405.20990). Eleanor Clifford, Adhithya Saravanan, Harry Langford, **Cheng Zhang**, Yiren Zhao, Robert Mullins, Ilia Shumailov, Jamie Hayes. Locking Machine Learning Models into Hardware. *The 3rd IEEE Conference on
+Secure and Trustworthy Machine Learning*.
 
 - [<u>\[ICML2024 Workshop\]</u>](https://arxiv.org/abs/2406.14963). Yuang Chen, **Cheng Zhang**, Xitong Gao, Robert D. Mullins, George A. Constantinides, Yiren Zhao. Optimised Grouped-Query Attention Mechanism for Transformers.
 
