@@ -36,8 +36,7 @@ My research is currently sponsored by the [Scaling Compute Program under ARIA](h
 
 - [<u>\[ICLR2025\]</u>](https://arxiv.org/abs/2410.06040). **Cheng Zhang**, Jeffrey T. H. Wong, Can Xiao, George A. Constantinides, Yiren Zhao. QERA: an Analytical Framework for Quantization Error Reconstruction. *The 13th International Conference on Learning Representations*.
 
-- [<u>\[IEEE SaTML2025\]</u>](https://arxiv.org/abs/2405.20990). Eleanor Clifford, Adhithya Saravanan, Harry Langford, **Cheng Zhang**, Yiren Zhao, Robert Mullins, Ilia Shumailov, Jamie Hayes. Locking Machine Learning Models into Hardware. *The 3rd IEEE Conference on
-Secure and Trustworthy Machine Learning*.
+- [<u>\[IEEE SaTML2025\]</u>](https://arxiv.org/abs/2405.20990). Eleanor Clifford, Adhithya Saravanan, Harry Langford, **Cheng Zhang**, Yiren Zhao, Robert Mullins, Ilia Shumailov, Jamie Hayes. Locking Machine Learning Models into Hardware. *The 3rd IEEE Conference on Secure and Trustworthy Machine Learning*.
 
 - [<u>\[ICML2024 Workshop\]</u>](https://arxiv.org/abs/2406.14963). Yuang Chen, **Cheng Zhang**, Xitong Gao, Robert D. Mullins, George A. Constantinides, Yiren Zhao. Optimised Grouped-Query Attention Mechanism for Transformers.
 
