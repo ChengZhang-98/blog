@@ -8,15 +8,9 @@ hide:
 
 # About me
 
-<figure>
-    <img src="./assets/images/selfie.jpg" class="center" width="400">
-</figure>
+![selfie](./assets/images/selfie.jpg){ width=400px .left }
 
-<font size="+2" markdown>
-<center>
-Cheng Zhang <br> [:fontawesome-solid-envelope:](mailto: chengzhang98@outlook.com)     [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/chengzhang98)     [:fontawesome-brands-github:](https://github.com/ChengZhang-98)
-</center>
-</font>
+[:fontawesome-solid-envelope:](mailto: chengzhang98@outlook.com) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/chengzhang98) [:fontawesome-brands-github:](https://github.com/ChengZhang-98)
 
 <p markdown>
 I am Cheng Zhang, a PhD student in [Circuits and System Group](https://www.imperial.ac.uk/electrical-engineering/research/circuits-and-systems/), the Department of Electrical and Electronic Engineering, Imperial College London, supervised by [Dr Yiren (Aaron) Zhao](https://aaron-zhao123.github.io/) and [Prof George A. Constantinides](https://www.linkedin.com/in/george-constantinides-5b12098).
@@ -33,6 +27,8 @@ My research is currently sponsored by the [Scaling Compute Program under ARIA](h
 - BEng in Automation, Beihang University, Sep 2017 - Jun 2021
 
 ## Publications
+
+- [<u>\[ICML2025\]</u>]() **Cheng Zhang**, Hanna Foerster, Robert D. Mullins, Yiren Zhao, Ilia Shumailov. Hardware and Software Platform Inference. *The 42nd International Conference on Machine Learning*.
 
 - [<u>\[ICLR2025\]</u>](https://arxiv.org/abs/2410.06040). **Cheng Zhang**, Jeffrey T. H. Wong, Can Xiao, George A. Constantinides, Yiren Zhao. QERA: an Analytical Framework for Quantization Error Reconstruction. *The 13th International Conference on Learning Representations*.
 

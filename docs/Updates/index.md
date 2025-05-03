@@ -5,7 +5,8 @@ hide:
 ---
 
 # Updates
-
+- 01/05/2025: 🥳 Paper [HSPI](https://arxiv.org/abs/2411.05197) accepted at [ICML2025](https://icml.cc/Conferences/2025).
+- 15/04/2025: 🥳 Joined Microsoft Research Cambridge as research intern.
 - 24/01/2025: 🥳 Paper [QERA](https://arxiv.org/abs/2410.06040) accepted at [ICLR2025](https://iclr.cc/Conferences/2025).
 
 - 24/07/2024: Presented our work LQER and two workshop papers at ICML'24, Vienna, Austria.
