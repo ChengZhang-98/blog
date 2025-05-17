@@ -30,7 +30,9 @@ My research is currently sponsored by the [Scaling Compute Program under ARIA](h
 
 > $^\dag$ denotes equal contribution
 
-- [<u>\[ICML2025\]</u>]() **Cheng Zhang**$^\dag$, Hanna Foerster$^\dag$, Robert D. Mullins, Yiren Zhao, Ilia Shumailov. Hardware and Software Platform Inference. *The 42nd International Conference on Machine Learning*.
+- [<u>\[ACL2025\]</u>](https://arxiv.org/abs/2412.13488) Xinxin Liu, Aaron Thomas, **Cheng Zhang**, Jianyi Cheng, Yiren Zhao, Xitong Gao. Refining Salience-Aware Sparse Fine-Tuning Strategies for Language Models. *The 63rd Annual Meeting of the Association for Computational Linguistics*.
+
+- [<u>\[ICML2025\]</u>](https://arxiv.org/abs/2411.05197v1) **Cheng Zhang**$^\dag$, Hanna Foerster$^\dag$, Robert D. Mullins, Yiren Zhao, Ilia Shumailov. Hardware and Software Platform Inference. *The 42nd International Conference on Machine Learning*.
 
 - [<u>\[ICLR2025\]</u>](https://arxiv.org/abs/2410.06040). **Cheng Zhang**, Jeffrey T. H. Wong, Can Xiao, George A. Constantinides, Yiren Zhao. QERA: an Analytical Framework for Quantization Error Reconstruction. *The 13th International Conference on Learning Representations*.
 
