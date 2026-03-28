@@ -30,6 +30,10 @@ My research is currently sponsored by the [Scaling Compute Program under ARIA](h
 
 > $^\dag$ denotes equal contribution
 
+- [<u>\[ISCA2026\]</u>](https://arxiv.org/abs/2509.09505) Haoran Wu, Can Xiao, Jiayi Nie, Xuan Guo, Binglei Lou, Jeffrey T. H. Wong, Zhiwen Mo, **Cheng Zhang**, Przemyslaw Forys, Wayne Luk, Hongxiang Fan, Jianyi Cheng, Timothy M. Jones, Rika Antonova, Robert Mullins, Aaron Zhao. PLENA: Breaking the Memory Walls for Agentic LLM Inference. *The 53rd Annual International Symposium on Computer Architecture*.
+
+- [<u>\[ICLR2026 Workshop\]</u>](https://arxiv.org/abs/2512.22213) Jeffrey T. H. Wong, **Cheng Zhang**, Louis Mahon, Wayne Luk, Anton Isopoussu, Yiren Zhao. On the Existence and Behavior of Secondary Attention Sinks. *ICLR 2026 Unifying Concept Representation Learning Workshop*.
+
 - [<u>\[ACL2025\]</u>](https://arxiv.org/abs/2412.13488) Xinxin Liu, Aaron Thomas, **Cheng Zhang**, Jianyi Cheng, Yiren Zhao, Xitong Gao. Refining Salience-Aware Sparse Fine-Tuning Strategies for Language Models. *The 63rd Annual Meeting of the Association for Computational Linguistics*.
 
 - [<u>\[ICML2025\]</u>](https://arxiv.org/abs/2411.05197v1) **Cheng Zhang**$^\dag$, Hanna Foerster$^\dag$, Robert D. Mullins, Yiren Zhao, Ilia Shumailov. Hardware and Software Platform Inference. *The 42nd International Conference on Machine Learning*.
