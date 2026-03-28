@@ -32,8 +32,6 @@ My research is currently sponsored by the [Scaling Compute Program under ARIA](h
 
 - [<u>\[ISCA2026\]</u>](https://arxiv.org/abs/2509.09505) Haoran Wu, Can Xiao, Jiayi Nie, Xuan Guo, Binglei Lou, Jeffrey T. H. Wong, Zhiwen Mo, **Cheng Zhang**, Przemyslaw Forys, Wayne Luk, Hongxiang Fan, Jianyi Cheng, Timothy M. Jones, Rika Antonova, Robert Mullins, Aaron Zhao. PLENA: Breaking the Memory Walls for Agentic LLM Inference. *The 53rd Annual International Symposium on Computer Architecture*.
 
-- [<u>\[ICLR2026 Workshop\]</u>](https://arxiv.org/abs/2512.22213) Jeffrey T. H. Wong, **Cheng Zhang**, Louis Mahon, Wayne Luk, Anton Isopoussu, Yiren Zhao. On the Existence and Behavior of Secondary Attention Sinks. *ICLR 2026 Unifying Concept Representation Learning Workshop*.
-
 - [<u>\[ACL2025\]</u>](https://arxiv.org/abs/2412.13488) Xinxin Liu, Aaron Thomas, **Cheng Zhang**, Jianyi Cheng, Yiren Zhao, Xitong Gao. Refining Salience-Aware Sparse Fine-Tuning Strategies for Language Models. *The 63rd Annual Meeting of the Association for Computational Linguistics*.
 
 - [<u>\[ICML2025\]</u>](https://arxiv.org/abs/2411.05197v1) **Cheng Zhang**$^\dag$, Hanna Foerster$^\dag$, Robert D. Mullins, Yiren Zhao, Ilia Shumailov. Hardware and Software Platform Inference. *The 42nd International Conference on Machine Learning*.
@@ -45,6 +43,8 @@ My research is currently sponsored by the [Scaling Compute Program under ARIA](h
 - [<u>\[EMNLP2023\]</u>](https://aclanthology.org/2023.emnlp-main.617.pdf) **Cheng Zhang**, Jianyi Cheng, Ilia Shumailov, George Anthony Constantinides, Yiren Zhao. Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inference? *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*.
 
 - [<u>\[IEEE SaTML2025\]</u>](https://arxiv.org/abs/2405.20990). Eleanor Clifford, Adhithya Saravanan, Harry Langford, **Cheng Zhang**, Yiren Zhao, Robert Mullins, Ilia Shumailov, Jamie Hayes. Locking Machine Learning Models into Hardware. *The 3rd IEEE Conference on Secure and Trustworthy Machine Learning*.
+
+- [<u>\[ICLR2026 Workshop\]</u>](https://arxiv.org/abs/2512.22213) Jeffrey T. H. Wong, **Cheng Zhang**, Louis Mahon, Wayne Luk, Anton Isopoussu, Yiren Zhao. On the Existence and Behavior of Secondary Attention Sinks. *ICLR 2026 Unifying Concept Representation Learning Workshop*.
 
 - [<u>\[ICML2024 Workshop\]</u>](https://arxiv.org/abs/2406.14963). Yuang Chen, **Cheng Zhang**, Xitong Gao, Robert D. Mullins, George A. Constantinides, Yiren Zhao. Optimised Grouped-Query Attention Mechanism for Transformers.
 
