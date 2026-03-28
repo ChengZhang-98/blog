@@ -38,11 +38,13 @@ My research is currently sponsored by the [Scaling Compute Program under ARIA](h
 
 - [<u>\[ICLR2025\]</u>](https://arxiv.org/abs/2410.06040). **Cheng Zhang**, Jeffrey T. H. Wong, Can Xiao, George A. Constantinides, Yiren Zhao. QERA: an Analytical Framework for Quantization Error Reconstruction. *The 13th International Conference on Learning Representations*.
 
+- [<u>\[IEEE SaTML2025\]</u>](https://arxiv.org/abs/2405.20990). Eleanor Clifford, Adhithya Saravanan, Harry Langford, **Cheng Zhang**, Yiren Zhao, Robert Mullins, Ilia Shumailov, Jamie Hayes. Locking Machine Learning Models into Hardware. *The 3rd IEEE Conference on Secure and Trustworthy Machine Learning*.
+
 - [<u>\[ICML2024\]</u>](https://arxiv.org/abs/2402.02446) **Cheng Zhang**, Jianyi Cheng, George A. Constantinides, Yiren Zhao. LQER: Low-Rank Quantization Error Reconstruction for LLMs. *The Forty-first International Conference on Machine Learning*.
 
-- [<u>\[EMNLP2023\]</u>](https://aclanthology.org/2023.emnlp-main.617.pdf) **Cheng Zhang**, Jianyi Cheng, Ilia Shumailov, George Anthony Constantinides, Yiren Zhao. Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inference? *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*.
+- [<u>[FPL2024]</u>](https://arxiv.org/abs/2406.03088). Zhewen Yu, Sudarshan Sreeram, Krish Agrawal, Junyi Wu, Alexander Montgomerie-Corcoran, **Cheng Zhang**, Jianyi Cheng, Christos-Savvas Bouganis, Yiren Zhao. HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerator
 
-- [<u>\[IEEE SaTML2025\]</u>](https://arxiv.org/abs/2405.20990). Eleanor Clifford, Adhithya Saravanan, Harry Langford, **Cheng Zhang**, Yiren Zhao, Robert Mullins, Ilia Shumailov, Jamie Hayes. Locking Machine Learning Models into Hardware. *The 3rd IEEE Conference on Secure and Trustworthy Machine Learning*.
+- [<u>\[EMNLP2023\]</u>](https://aclanthology.org/2023.emnlp-main.617.pdf) **Cheng Zhang**, Jianyi Cheng, Ilia Shumailov, George Anthony Constantinides, Yiren Zhao. Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inference? *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing*.
 
 - [<u>\[ICLR2026 Workshop\]</u>](https://arxiv.org/abs/2512.22213) Jeffrey T. H. Wong, **Cheng Zhang**, Louis Mahon, Wayne Luk, Anton Isopoussu, Yiren Zhao. On the Existence and Behavior of Secondary Attention Sinks. *ICLR 2026 Unifying Concept Representation Learning Workshop*.
 
@@ -50,9 +52,6 @@ My research is currently sponsored by the [Scaling Compute Program under ARIA](h
 
 - [<u>\[ICML2024 Workshop\]</u>](https://arxiv.org/abs/2406.14956) Zixi Zhang, **Cheng Zhang**, Xitong Gao, Robert D. Mullins, George A. Constantinides, Yiren Zhao. Unlocking the Global Synergies in Low-Rank Adapters.
 
-
-
-- [<u>[FPL2024]</u>](https://arxiv.org/abs/2406.03088). Zhewen Yu, Sudarshan Sreeram, Krish Agrawal, Junyi Wu, Alexander Montgomerie-Corcoran, **Cheng Zhang**, Jianyi Cheng, Christos-Savvas Bouganis, Yiren Zhao. HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerator
 
 - [<u>\[NeurIPS2023 Workshop\]</u>](http://mlforsystems.org/) **Cheng Zhang**, Jianyi Cheng, Zhewen Yu, Yiren Zhao. MASE: An Efficient Representation for Software-Defined ML Hardware System Exploration. *Workshop on ML for Systems at NeurIPS 2023*.
 
