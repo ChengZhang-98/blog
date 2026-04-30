@@ -32,9 +32,9 @@ My research is currently sponsored by the [Scaling Compute Program under ARIA](h
 
 - [<u>\[ICML2026\]</u>](https://arxiv.org/abs/2603.08721) Jiayi Nie, Haoran Wu, Yao Lai, Zeyu Cao, **Cheng Zhang**, Binglei Lou, Erwei Wang, Jianyi Cheng, Timothy M. Jones, Robert Mullins, Rika Antonova, Yiren Zhao. KernelCraft: Benchmarking for Agentic Close-to-Metal Kernel Generation on Emerging Hardware. *The 43rd International Conference on Machine Learning*.
 
-- [<u>\[ICML2026\]</u>](https://arxiv.org/abs/2509.09505) Jeffrey T. H. Wong$^\dag$, **Cheng Zhang**$^\dag$, Xinye Cao, Pedro Gimenes, George A. Constantinides, Wayne Luk, Yiren Zhao. A3: an Analytical Low-Rank Approximation Framework for Attention. *The 43rd International Conference on Machine Learning*.
+- [<u>\[ICML2026\]</u>](https://arxiv.org/abs/2505.12942) Jeffrey T. H. Wong$^\dag$, **Cheng Zhang**$^\dag$, Xinye Cao, Pedro Gimenes, George A. Constantinides, Wayne Luk, Yiren Zhao. A3: an Analytical Low-Rank Approximation Framework for Attention. *The 43rd International Conference on Machine Learning*.
 
-- [<u>\[ISCA2026\]</u>](https://arxiv.org/abs/2505.12942) Haoran Wu, Can Xiao, Jiayi Nie, Xuan Guo, Binglei Lou, Jeffrey T. H. Wong, Zhiwen Mo, **Cheng Zhang**, Przemyslaw Forys, Wayne Luk, Hongxiang Fan, Jianyi Cheng, Timothy M. Jones, Rika Antonova, Robert Mullins, Aaron Zhao. PLENA: Breaking the Memory Walls for Agentic LLM Inference. *The 53rd Annual International Symposium on Computer Architecture*.
+- [<u>\[ISCA2026\]</u>](https://arxiv.org/abs/2509.09505) Haoran Wu, Can Xiao, Jiayi Nie, Xuan Guo, Binglei Lou, Jeffrey T. H. Wong, Zhiwen Mo, **Cheng Zhang**, Przemyslaw Forys, Wayne Luk, Hongxiang Fan, Jianyi Cheng, Timothy M. Jones, Rika Antonova, Robert Mullins, Aaron Zhao. PLENA: Breaking the Memory Walls for Agentic LLM Inference. *The 53rd Annual International Symposium on Computer Architecture*.
 
 - [<u>\[ACL2025\]</u>](https://arxiv.org/abs/2412.13488) Xinxin Liu, Aaron Thomas, **Cheng Zhang**, Jianyi Cheng, Yiren Zhao, Xitong Gao. Refining Salience-Aware Sparse Fine-Tuning Strategies for Language Models. *The 63rd Annual Meeting of the Association for Computational Linguistics*.
 

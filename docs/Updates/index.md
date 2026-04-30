@@ -5,7 +5,7 @@ hide:
 ---
 
 # Updates
-- 30/04/2026: 🥳 Paper [A3](https://arxiv.org/abs/2509.09505) and [KernelCraft](https://arxiv.org/abs/2603.08721) accepted at [ICML2026](https://icml.cc/Conferences/2026).
+- 30/04/2026: 🥳 Paper [A3](https://arxiv.org/abs/2505.12942) and [KernelCraft](https://arxiv.org/abs/2603.08721) accepted at [ICML2026](https://icml.cc/Conferences/2026).
 - 04/08/2025-10/04/2026: 🦫 Working as Founding Engineer at [Sequrity.AI](https://sequrity.ai/).
 - 01/05/2025: 🥳 Paper [HSPI](https://arxiv.org/abs/2411.05197) accepted at [ICML2025](https://icml.cc/Conferences/2025).
 - 15/04/2025: 🥳 Joined Microsoft Research Cambridge as research intern.
