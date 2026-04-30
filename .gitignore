@@ -1,3 +1,5 @@
 .vscode
 .index.md
 /site/
+.venv/
+__pycache__/

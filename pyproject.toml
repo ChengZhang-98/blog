@@ -1,0 +1,9 @@
+[project]
+name = "blog"
+version = "0.1.0"
+description = "ChengZhang's personal site (mkdocs-material)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs-material>=9.6",
+]
