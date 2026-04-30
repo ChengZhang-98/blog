@@ -1,4 +1,5 @@
 site_name: ChengZhang's Site - Imperial College London, UK
+site_url: https://chengzhang-98.github.io/
 theme:
   name: material
   palette:
