@@ -36,6 +36,8 @@ My research is currently sponsored by the [Scaling Compute Program under ARIA](h
 
 > $^\dag$ denotes equal contribution
 
+- [<u>\[EMNLP2026\]</u>](https://arxiv.org/abs/2410.06722) Zeyu Cao, Yao Lai, Boyang Gu, **Cheng Zhang**, Pedro Gimenes, Jianqiao Lu, Xitong Gao, Jianyi Cheng, Robert D. Mullins, Yiren Zhao. Scaling Laws for Mixed Quantization. *The 2026 Conference on Empirical Methods in Natural Language Processing*.
+
 - [<u>\[ICML2026\]</u>](https://arxiv.org/abs/2603.08721) Jiayi Nie, Haoran Wu, Yao Lai, Zeyu Cao, **Cheng Zhang**, Binglei Lou, Erwei Wang, Jianyi Cheng, Timothy M. Jones, Robert Mullins, Rika Antonova, Yiren Zhao. KernelCraft: Benchmarking for Agentic Close-to-Metal Kernel Generation on Emerging Hardware. *The 43rd International Conference on Machine Learning*.
 
 - [<u>\[ICML2026\]</u>](https://arxiv.org/abs/2505.12942) Jeffrey T. H. Wong$^\dag$, **Cheng Zhang**$^\dag$, Xinye Cao, Pedro Gimenes, George A. Constantinides, Wayne Luk, Yiren Zhao. A3: an Analytical Low-Rank Approximation Framework for Attention. *The 43rd International Conference on Machine Learning*.

@@ -5,6 +5,7 @@ hide:
 ---
 
 # Updates
+- 24/08/2026: 🥳 Paper [Scaling Laws for Mixed Quantization](https://arxiv.org/abs/2410.06722) accepted at [EMNLP2026](https://2026.emnlp.org/).
 - 30/04/2026: 🥳 Paper [A3](https://arxiv.org/abs/2505.12942) and [KernelCraft](https://arxiv.org/abs/2603.08721) accepted at [ICML2026](https://icml.cc/Conferences/2026).
 - 04/08/2025-10/04/2026: 🦫 Working as Founding Engineer at [Sequrity.AI](https://sequrity.ai/).
 - 01/05/2025: 🥳 Paper [HSPI](https://arxiv.org/abs/2411.05197) accepted at [ICML2025](https://icml.cc/Conferences/2025).
